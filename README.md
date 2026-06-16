@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View app in AI Studio: https://ai.studio/apps/aa68377e-2818-4b9b-8811-efa6c7125b50
+View app https://ecotrack-985415169028.asia-southeast1.run.app
 
 ## Run Locally
 
