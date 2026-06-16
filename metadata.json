@@ -1,5 +1,5 @@
 {
-  "name": "Carbon Footprint Awareness Platform",
+  "name": "EcoTrack",
   "description": "An interactive tool to calculate, understand, track, and reduce your annual greenhouse gas emissions through simple actions, comparative benchmarks, and an educational hub.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
